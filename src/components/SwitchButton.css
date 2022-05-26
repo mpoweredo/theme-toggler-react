@@ -1,0 +1,22 @@
+.button {
+    border: transparent;
+    outline: transparent;
+    padding: 1.3em;
+    text-align: center;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.dark .button {
+    color: #F5F3F4;
+    background-color: #E5383B;
+}
+
+.light .button {
+    color: #E5383B;
+    background-color: #161A1D;
+}
