@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/theme-toggler-react/static/css/main.bc10d285.css",
+    "main.js": "/theme-toggler-react/static/js/main.da837c2e.js",
+    "index.html": "/theme-toggler-react/index.html",
+    "main.bc10d285.css.map": "/theme-toggler-react/static/css/main.bc10d285.css.map",
+    "main.da837c2e.js.map": "/theme-toggler-react/static/js/main.da837c2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc10d285.css",
+    "static/js/main.da837c2e.js"
+  ]
+}
